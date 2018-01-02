@@ -1,0 +1,276 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"getElementsByTagName〔function〕"
+			],
+			[
+				"sync",
+				"synchronousFile〔function〕"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 302.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 540.0
+	},
+	"console":
+	{
+		"height": 227.0,
+		"history":
+		[
+			"emmet",
+			"csslint"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/demo/案例/01.js",
+		"/C/demo/13_static.js",
+		"/C/demo/12_fs.js",
+		"/C/demo/11_fs.js",
+		"/C/demo/10_fs.js",
+		"/C/demo/09_fs.js",
+		"/C/demo/08_fs.js",
+		"/C/demo/07_router.js",
+		"/C/demo/06_url.js",
+		"/C/demo/05_url.js",
+		"/C/demo/04_req.js",
+		"/C/demo/03_http.js",
+		"/C/demo/02_staticRender.js",
+		"/C/demo/01_HelloWorld.js",
+		"/C/Users/nings/Desktop/webpackApp/package.json",
+		"/C/Users/nings/Desktop/app代码/Node完整代码/Node/app.js",
+		"/C/Users/nings/Desktop/app代码/gulpexapp/gulpexapp/gulpfile.js",
+		"/C/Users/nings/Desktop/webpackApp/app.js",
+		"/C/Users/nings/Desktop/app代码/Node完整代码/code/12.创建服务器/app.js",
+		"/C/Users/nings/Desktop/app代码/Node完整代码/code/13.读写数据流/app.js",
+		"/C/Users/nings/Desktop/app代码/Node完整代码/code/14.管道输入输出/app.js",
+		"/C/Users/nings/Desktop/app代码/Node完整代码/code/15.返回HTML数据/app.js",
+		"/C/Users/nings/Desktop/app代码/Node完整代码/code/16.返回JSON数据/app.js",
+		"/C/Users/nings/Desktop/app代码/Node完整代码/code/17.路由的概念/app.js",
+		"/C/Users/nings/Desktop/app代码/Node完整代码/code/18.NPM的使用/app.js",
+		"/C/Users/nings/Desktop/app代码/Node完整代码/code/19.初识Express框架/app.js",
+		"/C/Users/nings/Desktop/app代码/Node完整代码/code/20.初识EJS模板引擎/app.js",
+		"/C/Users/nings/Desktop/app代码/Node完整代码/code/21.解决外部样式及公共模板/package.json",
+		"/C/Users/nings/Desktop/app代码/Node完整代码/code/21.解决外部样式及公共模板/app.js",
+		"/C/Users/nings/Desktop/app代码/Node完整代码/code/11.文件系统-创删/app.js",
+		"/C/Users/nings/Desktop/app代码/Node完整代码/code/10.文件系统-读写/app.js",
+		"/C/Users/nings/Desktop/app代码/Node完整代码/code/8.解决模块共享引用/movies.js",
+		"/C/Users/nings/Desktop/app代码/Node完整代码/code/8.解决模块共享引用/app.js",
+		"/C/Users/nings/Desktop/app代码/Node完整代码/code/7.模块共享引用/movies.js",
+		"/C/Users/nings/Desktop/app代码/Node完整代码/code/7.模块共享引用/app.js",
+		"/C/Users/nings/Desktop/app代码/Node完整代码/code/7.模块共享引用/Bucky.js",
+		"/C/Users/nings/Desktop/app代码/Node完整代码/code/7.模块共享引用/Emily.js",
+		"/C/Users/nings/Desktop/app代码/Node完整代码/code/6.模块引用优化/movies.js",
+		"/C/Users/nings/Desktop/app代码/Node完整代码/code/5.模块的引用/app.js",
+		"/C/Users/nings/Desktop/app代码/Node完整代码/code/5.模块的引用/movies.js",
+		"/C/Users/nings/Desktop/app代码/Node完整代码/code/6.模块引用优化/app.js",
+		"/C/Users/nings/Desktop/app代码/Node完整代码/code/4.原型的使用/app.js",
+		"/C/Users/nings/Desktop/app代码/Node完整代码/code/3.对象的引用/app.js",
+		"/C/Users/nings/Desktop/app代码/Node完整代码/code/2.回调函数/app.js",
+		"/C/Users/nings/Desktop/app代码/Node完整代码/code/1.JS基础语法/app.js",
+		"/C/Users/nings/Desktop/demo/2.js",
+		"/C/Users/nings/Desktop/demo/1.js",
+		"/C/Users/nings/Desktop/demo/module_path.js",
+		"/C/demo/day3/01.js",
+		"/C/Users/nings/Desktop/新建文件夹/node-lessons-master/node-lessons-master/lesson1/README.md",
+		"/C/demo/day3/public/js/dj_hot.js",
+		"/C/demo/案例/node_modules/silly-datetime/index.js",
+		"/C/demo/案例/12.js",
+		"/C/demo/案例/13.js",
+		"/C/demo/案例/14.js",
+		"/C/demo/day3/public/js/dj_goto.js",
+		"/C/demo/案例/node_modules/silly-datetime/test/test.js",
+		"/C/demo/案例/11.js",
+		"/C/demo/案例/10.js",
+		"/C/demo/案例/09.js",
+		"/C/demo/案例/08.js",
+		"/C/demo/案例/07.js",
+		"/C/demo/案例/node_modules/express/package.json",
+		"/C/demo/案例/package.json",
+		"/C/demo/案例/test/foo.js",
+		"/C/demo/案例/04.js",
+		"/C/demo/案例/test/bar.js",
+		"/C/demo/案例/06.js",
+		"/C/demo/案例/05.js",
+		"/C/demo/案例/test/People.js",
+		"/C/demo/案例/03.js",
+		"/C/demo/案例/02.js",
+		"/C/demo/static/js/zhanshi.js",
+		"/C/Users/nings/Desktop/demo/5.html",
+		"/C/Users/nings/Desktop/demo/4.js",
+		"/E/前端传智/案例/nodedemo/03_http.js",
+		"/E/前端传智/案例/nodedemo/02_staticRender.js",
+		"/C/Users/nings/Desktop/demo/4.html",
+		"/C/demo/test/aaaaaa.css",
+		"/E/前端传智/案例/nodedemo/01_HelloWorld.js",
+		"/C/Users/nings/Desktop/demo/3.html",
+		"/C/Users/nings/Desktop/demo/hello.js",
+		"/C/Users/nings/Desktop/demo/2.html",
+		"/C/Users/nings/Desktop/nodejs/helloworld.js",
+		"/C/nodedemo/hello.js",
+		"/C/Users/nings/Desktop/react/react-0.14.3/1.html",
+		"/C/Users/nings/Desktop/hello.js",
+		"/E/前端传智/NodeJS第2天/案例/NodeJS第2天.doc",
+		"/E/前端传智/ECMAScript 6入门.docx",
+		"/C/Users/nings/Desktop/daima/5.html",
+		"/C/Users/nings/Desktop/daima/4.html",
+		"/C/Users/nings/Desktop/daima/3.html",
+		"/C/Users/nings/Desktop/react/react-0.14.3/react-0.14.3/build/react.js",
+		"/C/Users/nings/Desktop/prototype/prototype/prototype.js",
+		"/C/Users/nings/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/nings/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/nings/Desktop/daima/1.html",
+		"/C/Users/nings/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/Default (Windows).sublime-mousemap"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 37.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "app.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
